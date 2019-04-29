@@ -5,10 +5,12 @@ public class FileData {
     public static void main(String[] args) throws IOException {
 
         String file_name = args[0];
-
+        boolean append = false;
+        if (args.length == 2)
+            append = Boolean.parseBoolean(args[1]);
         ////////////// WRITING TO FILE
         try {
-            WriteFile data = new WriteFile(file_name, Boolean.parseBoolean(args[1]));
+            WriteFile data = new WriteFile(file_name, append);
             data.writeToFile("This is another line of text");
         } catch (IOException e) {
             System.out.println(e.getMessage());
