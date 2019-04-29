@@ -18,19 +18,19 @@ public class JetPlane extends Aircraft implements Flyable {
         if (new_weather.equals("SUN")) {
             this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude() + 10,
                     coordinates.getHeight() + 2);
-            System.out.println("J SUN");
+            System.out.println("JetPlane#" + this.name + "(" + this.id + ")" +"J SUN");
         } else if (new_weather.equals("RAIN")) {
             this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude() + 5,
                     coordinates.getHeight());
-            System.out.println("J RAIN");
+            System.out.println("JetPlane#" + this.name + "(" + this.id + ")" +"J RAIN");
         } else if (new_weather.equals("FOG")) {
             this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude() + 1,
                     coordinates.getHeight());
-            System.out.println("J FOG");
+            System.out.println("JetPlane#" + this.name + "(" + this.id + ")" +"J FOG");
         } else if (new_weather.equals("SNOW")) {
             this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude(),
                     coordinates.getHeight() - 7);
-            System.out.println("J SNOW");
+            System.out.println("JetPlane#" + this.name + "(" + this.id + ")" +"J SNOW");
         }
 
         if (coordinates.getHeight() <= 0) {

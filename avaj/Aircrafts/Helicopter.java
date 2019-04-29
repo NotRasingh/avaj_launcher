@@ -18,19 +18,19 @@ public class Helicopter extends Aircraft implements Flyable {
         if (new_weather.equals("SUN")) {
             this.coordinates = new Coordinates(coordinates.getLongitude() + 10, coordinates.getLatitude(),
                     coordinates.getHeight() + 2);
-            System.out.println("H SUN");
+            System.out.println("Helicopter#" + this.name + "(" + this.id + ")" + "H SUN");
         } else if (new_weather.equals("RAIN")) {
             this.coordinates = new Coordinates(coordinates.getLongitude() + 5, coordinates.getLatitude(),
                     coordinates.getHeight());
-            System.out.println("H RAIN");
+            System.out.println("Helicopter#" + this.name + "(" + this.id + ")" + "H RAIN");
         } else if (new_weather.equals("FOG")) {
             this.coordinates = new Coordinates(coordinates.getLongitude() + 1, coordinates.getLatitude(),
                     coordinates.getHeight());
-            System.out.println("H FOG");
+            System.out.println("Helicopter#" + this.name + "(" + this.id + ")" + "H FOG");
         } else if (new_weather.equals("SNOW")) {
             this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude(),
                     coordinates.getHeight() - 12);
-            System.out.println("H SNOW");
+            System.out.println("Helicopter#" + this.name + "(" + this.id + ")" + "H SNOW");
         }
 
         if (coordinates.getHeight() <= 0) {
