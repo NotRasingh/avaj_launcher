@@ -1,0 +1,139 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1(1)B FOG
+Baloon#B2(2)B SNOW
+JetPlane#J1(3)J SNOW
+Helicopter#H1(4)H SNOW
+Helicopter#H2(5)H SNOW
+Helicopter#H3(6)H FOG
+Baloon#B3(7)B SUN
+JetPlane#J2(8)J SUN
+Helicopter#H4(9)H RAIN
+Baloon#B1(1)B SUN
+Baloon#B2(2)B RAIN
+JetPlane#J1(3)J RAIN
+Helicopter#H1(4)H SNOW
+Helicopter#H1(4) landing.
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H3(6)H SUN
+Baloon#B3(7)B RAIN
+JetPlane#J2(8)J RAIN
+Helicopter#H4(9)H FOG
+Baloon#B1(1)B RAIN
+Baloon#B2(2)B SNOW
+JetPlane#J1(3)J FOG
+Helicopter#H2(5)H SNOW
+Helicopter#H3(6)H FOG
+Baloon#B3(7)B SNOW
+JetPlane#J2(8)J FOG
+Helicopter#H4(9)H SUN
+Baloon#B1(1)B SNOW
+Baloon#B2(2)B RAIN
+JetPlane#J1(3)J SUN
+Helicopter#H2(5)H SNOW
+Helicopter#H3(6)H SUN
+Baloon#B3(7)B RAIN
+JetPlane#J2(8)J SUN
+Helicopter#H4(9)H SUN
+Baloon#B1(1)B RAIN
+Baloon#B1(1) landing.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+JetPlane#J1(3)J SUN
+Helicopter#H2(5)H SNOW
+Helicopter#H2(5) landing.
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Baloon#B3(7)B SNOW
+Baloon#B3(7) landing.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+Helicopter#H4(9)H SUN
+Baloon#B2(2)B SNOW
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H RAIN
+JetPlane#J2(8)J RAIN
+Helicopter#H4(9)H SUN
+Baloon#B2(2)B RAIN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H FOG
+JetPlane#J2(8)J FOG
+Helicopter#H4(9)H SUN
+Baloon#B2(2)B SNOW
+Baloon#B2(2) landing.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+Helicopter#H3(6)H SUN
+JetPlane#J2(8)J SUN
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H RAIN
+JetPlane#J2(8)J RAIN
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H FOG
+JetPlane#J2(8)J FOG
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H SUN
+JetPlane#J2(8)J SUN
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H RAIN
+JetPlane#J2(8)J RAIN
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H FOG
+JetPlane#J2(8)J FOG
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H SUN
+JetPlane#J2(8)J SUN
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H RAIN
+JetPlane#J2(8)J RAIN
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H FOG
+JetPlane#J2(8)J FOG
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H SUN
+JetPlane#J2(8)J SUN
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H RAIN
+JetPlane#J2(8)J RAIN
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H FOG
+JetPlane#J2(8)J FOG
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H SUN
+JetPlane#J2(8)J SUN
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H RAIN
+JetPlane#J2(8)J RAIN
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H FOG
+JetPlane#J2(8)J FOG
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H SUN
+JetPlane#J2(8)J SUN
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H RAIN
+JetPlane#J2(8)J RAIN
+Helicopter#H4(9)H SUN
+JetPlane#J1(3)J SUN
+Helicopter#H3(6)H FOG
+JetPlane#J2(8)J FOG
+Helicopter#H4(9)H SUN
